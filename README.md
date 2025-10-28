@@ -1,5 +1,5 @@
 # Coming-soon-project
-# GoatBot V2 - Complete Project Documentation
+# GoatBot V2 (Telegram-ChatBot)- Complete Project Documentation
 
 ## Table of Contents
 1. [Overview](#overview)
